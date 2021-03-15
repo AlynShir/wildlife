@@ -22,7 +22,7 @@ header {
 }
 
 .header_content {
-    background: url(../assets/backgr.jpg) #02160b;
+    background: url(assets/backgr.jpg) #02160b;
     height: 780px;
     width: 100%;
     background-size: contain;
@@ -306,21 +306,21 @@ main .articles h2 {
 .articles_item-first .articles_item-content {
     height: 360px;
     width: 300px;
-    background: url(../assets/deer.jpg);
+    background: url(assets/deer.jpg);
     border-radius: 0px;
 }
 
 .articles_item-second .articles_item-content {
     height: 360px;
     width: 300px;
-    background: url(../assets/sq.jpg);
+    background: url(assets/sq.jpg);
     border-radius: 0px;
 }
 
 .articles_item-third .articles_item-content {
     height: 360px;
     width: 300px;
-    background: url(../assets/bird.jpg);
+    background: url(assets/bird.jpg);
     border-radius: 0px;
 }
 
@@ -410,7 +410,7 @@ main .articles h2 {
 }
 
 footer {
-    background: url(../assets/backgr2.jpg) #181617;
+    background: url(assets/backgr2.jpg) #181617;
     height: 360px;
 }
 
